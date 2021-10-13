@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rodewyn
+- 👀 I’m interested in picture processing, writing own filters
+- 🌱 I’m currently refreshing my "almost-lost" c++-skills after long time only busy with specification-management and control.
+-
+- 📫 rodewijn@gmx.net
